@@ -38,20 +38,6 @@ california_housing/
 
 ---
 
-## **How to Run**  
-### **Google Colab**  
-1. Open the notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/repo/blob/main/california_housing.ipynb)  
-2. Run all cells sequentially (`Runtime` → `Run all`)  
-
-### **Local Setup**  
-```bash
-git clone https://github.com/yourusername/california-housing.git
-cd california-housing
-pip install -r requirements.txt  # pandas, scikit-learn, matplotlib
-jupyter notebook california_housing.ipynb
-```
-
----
 
 ## **Key Code Snippets**  
 ### **1. Data Pipeline**  
