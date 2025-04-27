@@ -11,9 +11,9 @@ This project implements a complete **machine learning pipeline** on the Californ
 - Model evaluation (Linear Regression, Decision Trees, Random Forests)  
 
 **Key Skills Demonstrated**:  
-✔ Data preprocessing with `ColumnTransformer`  
-✔ Handling categorical/numerical features  
-✔ Cross-validation & performance metrics (RMSE)  
+ Data preprocessing with `ColumnTransformer`  
+ Handling categorical/numerical features  
+ Cross-validation & performance metrics (RMSE)  
 
 ---
 
