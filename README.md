@@ -76,8 +76,6 @@ grid_search.fit(housing_prepared, housing_labels)
 | Random Forest       | 18,662      | 47,209      |
 | **Tuned Random Forest** | **17,982** | **46,850**  |
 
-![Geographical Price Distribution](https://i.imgur.com/example_scatter.png)  
-*House prices vary strongly with location (e.g., coastal areas are more expensive).*
 
 ---
 
